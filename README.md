@@ -1,0 +1,3 @@
+# modding-squirrel
+
+Just some random minecraft modding experiments...
